@@ -1,1 +1,37 @@
 /* your code here */
+.product{
+	width:100%;
+}
+.product__photo{
+	display:flex;
+	width:50%;
+}
+
+.photo-album>ul{
+	display:flex;
+	list-style-type:none;
+}
+.price{
+	height:100px;
+	color:red;
+}
+span{
+	color:red;
+	font-size:80px;
+}
+.variant>ul{
+	list-style-type:none;
+	display:flex;
+}
+
+
+.btn{
+	text-align:center;
+	color:white;
+	background:red;
+	border-radius:10px;
+	padding:20px;
+	border:1px solid red;
+	alignment:center;
+	margin:150px;
+}
